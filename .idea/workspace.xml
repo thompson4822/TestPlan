@@ -14,11 +14,9 @@
     <option name="historyRevisionsNumber" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list id="9bdc8647-a228-421b-9e5f-bb86a6281c35" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="64008305-b14d-4a3d-9859-908c1d60c122" name="TestPlan-1: Get code from BitBucket under github" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
-    <list default="true" id="64008305-b14d-4a3d-9859-908c1d60c122" name="TestPlan-1: Get code from BitBucket under github" comment="" />
     <ignored path="TestPlan.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
